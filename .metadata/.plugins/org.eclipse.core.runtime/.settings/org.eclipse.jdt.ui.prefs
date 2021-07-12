@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="chapter05.Rectangle"><rhs name\="chapter05.Rectangle"/></lhs><lhs name\="singleton.Company"><rhs name\="singleton.Company"/></lhs><lhs name\="inheritance05.Point"><rhs name\="inheritance05.Point$ColorPoint"/></lhs><lhs name\="inheritance05.Point$ColorPoint"><rhs name\="inheritance05.Point$ColorPoint"/></lhs><lhs name\="q.ViMethod"><rhs name\="q.ViMethod$ViMethod2"/></lhs><lhs name\="q.ViMethod$ViMethod2"><rhs name\="q.ViMethod$ViMethod2"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

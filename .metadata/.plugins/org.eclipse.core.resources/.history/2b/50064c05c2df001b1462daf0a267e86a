@@ -1,0 +1,12 @@
+package abstractEx;
+
+public abstract class Computer {
+
+	public abstract void display();     // 추상 메소드
+	abstract public void typing();      // 추상 메소드
+	
+	public void add(int a, int b) {}  // 일반 메소드
+	
+	
+	
+}

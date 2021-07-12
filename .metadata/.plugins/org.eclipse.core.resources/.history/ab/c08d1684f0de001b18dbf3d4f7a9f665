@@ -1,0 +1,31 @@
+package override2;
+
+public class Shape {
+
+	protected String name;
+	public void paint()
+	{
+		draw();
+	}
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

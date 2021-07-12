@@ -1,0 +1,13 @@
+package override3;
+
+public class Overriding {
+
+	public static void main(String[] args) {
+		
+		
+		Weapon weapon;
+		weapon = new Weapon();
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package inheritance4;
+
+ class A {
+	
+	public A() {
+		System.out.println("»ý¼ºÀÚA");
+	}
+
+}
+
+
+public class ConstructorEx02 {
+
+	public static void main(String[] args) {
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+}
+}
+

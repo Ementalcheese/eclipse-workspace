@@ -1,0 +1,27 @@
+package override2;
+
+public class Shape {
+
+	protected String name;
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

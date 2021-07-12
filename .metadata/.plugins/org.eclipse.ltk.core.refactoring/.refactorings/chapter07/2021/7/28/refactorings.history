@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.ObjectCopyTest1&apos; to &apos;EnhancedForLoop&apos;&#x0D;&#x0A;- Original project: &apos;chapter07&apos;&#x0D;&#x0A;- Original element: &apos;array.ObjectCopyTest1&apos;&#x0D;&#x0A;- Renamed element: &apos;array.EnhancedForLoop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ObjectCopyTest1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{ObjectCopyTest1.java[ObjectCopyTest1" matchStrategy="1" name="EnhancedForLoop" qualified="false" references="true" similarDeclarations="false" stamp="1625634707451" textual="false" version="1.0"/>
+</session>

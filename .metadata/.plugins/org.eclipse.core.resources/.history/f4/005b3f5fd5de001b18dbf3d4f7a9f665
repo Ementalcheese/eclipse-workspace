@@ -1,0 +1,18 @@
+package instanceofex;
+
+class Person
+{
+}
+
+
+public class InstanceOfEX {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+
+}

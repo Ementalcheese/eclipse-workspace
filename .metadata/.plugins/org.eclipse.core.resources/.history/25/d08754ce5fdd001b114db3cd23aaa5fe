@@ -1,0 +1,13 @@
+package exam;
+
+public class Q15 {
+
+	public static void main(String[] args) {
+		
+		int a,b; // a = 10의 자리, b는 1의 자리
+		
+		
+		
+	}
+
+}

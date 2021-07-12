@@ -1,0 +1,8 @@
+package car;
+
+public abstract class Car {
+	
+	abstract public void start()
+	{};
+
+}

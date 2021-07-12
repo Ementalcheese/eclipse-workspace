@@ -1,0 +1,29 @@
+package upcasting;
+
+public class UpcastingEx {
+
+	public static void main(String[] args) {
+		
+		Person p;
+		Student s = new Student("홍길동");
+		
+		Person pp = new Student("둘리");
+		p = s;      //업캐스팅 p = (Person)s; <- 업캐스팅 할때에는 Person 자료형을 명시하지 않아도 
+		                                      //묵시적으로 적용
+		System.out.println(p.name);
+		
+		p.grade = "A";         //컴파일 오류 student의 멤버변수
+		p.department = "HR";   //컴파일 오류
+		p.name = "이순신";
+		p.id = "ID";
+		
+		s.grade = "A";
+		s.department = "HR";
+	    s.id = "ID";
+		s.name="고길동";
+		
+		
+		
+	}
+
+}

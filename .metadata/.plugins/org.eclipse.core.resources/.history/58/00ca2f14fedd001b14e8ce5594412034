@@ -1,0 +1,18 @@
+package test;
+
+import inheritance.Point;
+
+public class ColorPointEx extemds Point {
+
+	public static void main(String[] args) {
+		
+		Point p = new Point(); // point 클래스의 객체 생성
+		
+		p.x = 1;
+		p.y = 2;
+		
+ 		
+		
+	}
+
+}

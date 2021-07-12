@@ -1,0 +1,36 @@
+package inheritance4;
+
+import inheritance3.A;
+
+class A {
+	
+	public A() {
+		System.out.println("持失切A");
+	}
+
+}
+ class B extends A {
+		
+		public B() {
+			System.out.println("持失切B");
+		}
+
+	}
+
+
+public class ConstructorEx02 {
+
+	public static void main(String[] args) {
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+}
+}
+

@@ -1,0 +1,21 @@
+package q;
+
+public class ViMethod {
+
+	int num;
+	void aaa()
+	{
+		System.out.println("aaa() Ãâ·Â");
+	}
+	
+	
+	public static void main(String[] args) {
+		
+	 ViMethod v1 = new ViMethod();
+	 ViMethod v2 = new Vimethod();
+		
+		
+		
+	}
+
+}

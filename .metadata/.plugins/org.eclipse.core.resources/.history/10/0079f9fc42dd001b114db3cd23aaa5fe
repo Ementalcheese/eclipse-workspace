@@ -1,0 +1,17 @@
+package exam;
+
+import java.util.Scanner;
+
+public class Q13 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+	 int[] unit = {50000,10000,1000,500,100};
+		
+		
+		
+	}
+
+}

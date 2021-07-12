@@ -1,0 +1,22 @@
+package instanceofex;
+
+class Person
+{
+}
+class Student extends Person
+{
+}
+
+
+
+public class InstanceOfEX {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+
+}

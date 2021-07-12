@@ -1,0 +1,9 @@
+package q;
+
+public class ViMethod2 extends ViMethod2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

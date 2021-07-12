@@ -1,0 +1,64 @@
+package inheritance05;
+class A{
+	
+	public A()
+	{
+		System.out.println("持失切 A");
+	}
+	public A(int x)
+	{
+		System.out.println("古鯵痕呪 持失切 A");
+	}
+}
+class B{
+	
+	public B() {
+		System.out.println("持失切 B");
+	}
+	
+	
+	
+	
+}
+
+	
+	
+	
+public class ConstructorEx03 {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+	
+
+}

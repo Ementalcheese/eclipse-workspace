@@ -1,0 +1,24 @@
+package finalex;
+
+public class Constant {
+
+	public static void main(String[] args) {
+		
+		int num = 10;
+		final int NUM = 100;
+		
+		Constant cons = new Constant();
+		cons.num = 50;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package witharraylist;
+
+public class GoldCustomer {
+	
+	double saleRatio;
+	
+
+}

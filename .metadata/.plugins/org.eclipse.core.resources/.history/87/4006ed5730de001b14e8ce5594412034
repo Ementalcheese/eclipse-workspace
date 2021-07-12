@@ -1,0 +1,32 @@
+package inheritance06;
+
+public class VipCustomer extends Customer {
+
+	
+	
+	private int agentID;
+	double saleRatio;
+	
+	public VipCustomer()
+	{
+		customerGrade = "VIP";
+		
+		saleRatio = 0.1;
+		
+		bonusRatio = 0.5;
+	}
+	
+	
+	public int getAgentID()
+	{
+		return agentID;
+	}
+	
+	public String showCustomerInfo()
+	{
+		return customerName + "님의 등급은 " + customerGrade + "이며, 보너스 포인트는 " + bonusPoint+ "입니다";
+	}
+	
+	
+	
+}

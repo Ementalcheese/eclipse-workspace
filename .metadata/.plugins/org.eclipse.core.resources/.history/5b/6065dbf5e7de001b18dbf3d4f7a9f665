@@ -1,0 +1,21 @@
+package override;
+
+class Shape{
+	public Shape next;
+	public shape () { next = null};
+	
+	
+}
+
+
+
+
+
+public class OverridingEX {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

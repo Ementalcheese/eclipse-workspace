@@ -1,0 +1,9 @@
+package inheritance06;
+
+public class CustomerTest1 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
